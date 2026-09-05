@@ -51,8 +51,8 @@ Desarrollar una aplicación web para aplicar los conceptos fundamentales de admi
 Para preparar el proyecto a partir de una clonación limpia, ejecute los siguientes comandos:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd Tarea3
+git clone https://github.com/a374366-commits/tarea3-todo-app.git
+cd tarea3-todo-app
 npm install
 ```
 
